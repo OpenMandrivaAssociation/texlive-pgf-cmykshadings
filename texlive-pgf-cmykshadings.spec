@@ -1,6 +1,6 @@
 Name:		texlive-pgf-cmykshadings
 Version:	52635
-Release:	1
+Release:	2
 Summary:	Support for CMYK and grayscale shadings in PGF/TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgf-cmykshadings
