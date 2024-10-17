@@ -3,7 +3,7 @@ Version:	52635
 Release:	2
 Summary:	Support for CMYK and grayscale shadings in PGF/TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgf-cmykshadings
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pgf-cmykshadings
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgf-cmykshadings.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgf-cmykshadings.doc.r%{version}.tar.xz
